@@ -19,8 +19,10 @@ Este repositório contém a implementação física de um banco de dados relacio
  📸 Evidências
 (Dica: Aqui você pode colocar o print que você tirou do DBeaver mostrando o grid preenchido com os dados)
 <img width="2868" height="1800" alt="image" src="https://github.com/user-attachments/assets/4bbed8b9-d017-4375-8a74-529045d43916" />
-<img width="2868" height="1800" alt="image" src="https://github.com/user-attachments/assets/315b926d-5de4-489e-a4d7-8215a3cbadb2" />
-<img width="2868" height="1800" alt="image" src="https://github.com/user-attachments/assets/c2020f20-5975-4659-aa27-f55238d09414" />
+<img width="2868" height="1800" alt="image" src="https://github.com/user-attachments/assets/d3489773-3760-469b-a231-94cde8a101fd" />
+<img width="1434" height="908" alt="image" src="https://github.com/user-attachments/assets/d16a5518-59e3-4c33-a6b2-b2b5afaf37a3" />
+
+
 
 Como rodar o projeto
 
