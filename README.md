@@ -82,16 +82,47 @@ Esta foi a consulta mais complexa do projeto devido à diversidade dos dados (ex
 O projeto permitiu dominar conceitos fundamentais de SQL, desde a criação da estrutura (DDL) até o tratamento de tipos de dados complexos e lógica de filtragem avançada.
 
 
-### 📸 Evidências da Task 5
+### 📸 Evidências da Task 5 (Resultados no DBeaver)
+Item A: Filtro por Cidade (São Paulo)
+
+Resultado único esperado: "O Senhor dos Anéis".
 
 <img width="1168" height="768" alt="image" src="https://github.com/user-attachments/assets/5fffa435-3c0c-4c31-8323-fc07da4322e3" />
+
+Item B: Total de Empréstimos por Membro
+
+Exibe a contagem correta para Ana, Carla e Bruno.
+
 <img width="1168" height="768" alt="image" src="https://github.com/user-attachments/assets/0f3d4086-a6a6-4ab7-931e-a580bab53667" />
+
 <img width="1168" height="768" alt="image" src="https://github.com/user-attachments/assets/4db1b835-af4d-4e2e-832a-de72d5cc75ac" />
+
+Item C: Pendências de Devolução
+
+Filtro IS NULL isolando quem ainda não devolveu o livro.
+
 <img width="1168" height="768" alt="image" src="https://github.com/user-attachments/assets/381db34d-3a61-4994-ae9b-150aa7e9a17f" />
+
 <img width="1168" height="768" alt="image" src="https://github.com/user-attachments/assets/bc831ff1-f937-462d-8596-65fe6edd4060" />
+
+Item D: O Desafio dos Livros Antigos
+
+Evidência crucial: O contador exibindo o número 3, validando a lógica do "500 a.C.".
+
 <img width="1168" height="768" alt="image" src="https://github.com/user-attachments/assets/c9698c64-68c1-40b7-b5b7-09435f358726" />
+
+Item E: Livros Nunca Emprestados
+
+Identificação correta de "A Arte da Guerra".
+
 <img width="1168" height="768" alt="image" src="https://github.com/user-attachments/assets/48dd0a9e-9a78-4510-8d15-c790099a984e" />
+
+Item F: Ranking de Empréstimos
+
+Exibição do livro campeão com o total de 2 registros.
+
 <img width="1168" height="768" alt="image" src="https://github.com/user-attachments/assets/10e04549-bac5-44da-b1f2-812f21b6c22f" />
+
 
 
 
