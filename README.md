@@ -17,7 +17,7 @@ Este repositório contém a implementação física de um banco de dados relacio
 * Povoamento inicial do banco com dados de teste (Livros, Membros e registros de Empréstimos).
 
  📸 Evidências
-(Dica: Aqui você pode colocar o print que você tirou do DBeaver mostrando o grid preenchido com os dados)
+
 <img width="2868" height="1800" alt="image" src="https://github.com/user-attachments/assets/4bbed8b9-d017-4375-8a74-529045d43916" />
 <img width="1168" height="768" alt="image" src="https://github.com/user-attachments/assets/7b8bb368-e03c-4857-b3eb-10d4bb913459" />
 <img width="1168" height="768" alt="image" src="https://github.com/user-attachments/assets/7bff2f82-0e69-47c5-8ff0-780b31f8aadc" />
